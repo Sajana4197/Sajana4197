@@ -1,3 +1,5 @@
+<img src="https://github.com/Sajana4197/Sajana4197/blob/main/banner.png" alt="Sajana Senanayake Banner" />
+
 # 👋 Hi there, I'm Sajana Senanayake  
 
 Welcome to my GitHub! 🚀  
